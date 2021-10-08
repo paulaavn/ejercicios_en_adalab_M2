@@ -1,0 +1,22 @@
+
+/* EJERCICIO 2
+Dayana mola
+
+Tenemos que crear una clase nueva para destacar el texto OLA! y añadirla con JavaScript al elemento con clase super-wave. A por ello!
+Prueba a loguear la constante superWave. */
+
+.main {
+    background-color: pink;
+  }
+  
+  .main__title {
+    color: red;
+  }
+
+  .newClass{
+    background-color: aqua;
+    color: blue;
+  }
+
+  
+

@@ -1,0 +1,15 @@
+.button{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 20%;
+  
+}
+
+.button_op{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 20%;
+    opacity:0.5 ;
+}

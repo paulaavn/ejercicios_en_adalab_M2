@@ -1,0 +1,31 @@
+
+/*EJERCICIO 9
+Favoritos
+Hemos preparado un HTML con tres tarjetas. Al pinchar en un elemento del listado tenemos que:
+Añadir la clase .teacher--selected si no la tiene, o quitarla si la tiene.
+Modificar el texto del span .favorite sustituyéndolo por 'Quitar' si en ese momento contiene 'Añadir', o por 'Añadir' si contiene 'Quitar'.*/
+
+body {
+    margin: 0;
+    font-family: Arial, san-serif;
+  }
+  
+  .teachers {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .teacher {
+    display: inline-block;
+    cursor: pointer;
+    padding: 20px;
+  }
+  
+  .teacher__img {
+    width: 200px;
+    height: auto;
+  }
+  
+  .teacher--selected {
+    background-color: antiquewhite;
+  }

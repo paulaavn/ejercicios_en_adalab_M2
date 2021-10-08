@@ -1,0 +1,21 @@
+
+/*EJERCICIO 6
+Información instantánea
+Crear una página con un input de texto y un párrafo vacío. Cada vez que la usuaria escriba una letra tenemos que recoger el valor del input al que le pusimos el listener y escribirlo en el párrafo.
+Nota: el objetivo es hacerlo utilizando event.currentTarget.*/
+
+.button1 {
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 20%;
+    border: 5px solid aquamarine;
+}
+
+.button2 {
+    width: 100px;
+    height: 50px;
+    background-color:aquamarine;
+    border-radius: 20%;
+    border: 5px solid blue;
+}
